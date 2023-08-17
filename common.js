@@ -68,7 +68,7 @@ let menuTl = gsap.timeline({
     start: "5% top",
     trigger: "nav",
     // start: "top center",
-    markers: true,
+    // markers: true,
     scrub: true,
   },
 });
